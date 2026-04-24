@@ -192,7 +192,7 @@ text { fill: #000000; }
 <g transform="translate(84, 112)" class="key keypos-4">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">A</text>
+<text x="0" y="0" class="key tap">E</text>
 </g>
 <g transform="translate(84, 168)" class="key keypos-5">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
@@ -207,7 +207,7 @@ text { fill: #000000; }
 <g transform="translate(140, 42)" class="key keypos-7">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">W</text>
+<text x="0" y="0" class="key tap">L</text>
 </g>
 <g transform="translate(140, 154)" class="key keypos-8">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
@@ -222,22 +222,22 @@ text { fill: #000000; }
 <g transform="translate(196, 28)" class="key keypos-10">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">E</text>
+<text x="0" y="0" class="key tap">U</text>
 </g>
 <g transform="translate(196, 84)" class="key keypos-11">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">D</text>
+<text x="0" y="0" class="key tap">A</text>
 </g>
 <g transform="translate(252, 42)" class="key keypos-12">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">R</text>
+<text x="0" y="0" class="key tap">,</text>
 </g>
 <g transform="translate(252, 98)" class="key keypos-13">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">F</text>
+<text x="0" y="0" class="key tap">O</text>
 </g>
 <g transform="translate(252, 154)" class="key keypos-14">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
@@ -253,12 +253,12 @@ text { fill: #000000; }
 <g transform="translate(308, 112)" class="key keypos-16">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">G</text>
+<text x="0" y="0" class="key tap">-</text>
 </g>
 <g transform="translate(308, 168)" class="key keypos-17">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">B</text>
+<text x="0" y="0" class="key tap">/</text>
 </g>
 <g transform="translate(286, 236) rotate(11.93)" class="key keypos-18">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
@@ -279,7 +279,7 @@ text { fill: #000000; }
 <g transform="translate(140, 98)" class="key keypos-21">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">S</text>
+<text x="0" y="0" class="key tap">I</text>
 </g>
 <g transform="translate(196, 140)" class="key keypos-22">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
@@ -289,7 +289,7 @@ text { fill: #000000; }
 <g transform="translate(308, 56)" class="key keypos-23">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">T</text>
+<text x="0" y="0" class="key tap">.</text>
 </g>
 <g transform="translate(345, 257) rotate(23.0)" class="key keypos-24">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
@@ -319,12 +319,12 @@ text { fill: #000000; }
 <g transform="translate(812, 112)" class="key keypos-29">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">:</text>
+<text x="0" y="0" class="key tap">H</text>
 </g>
 <g transform="translate(812, 168)" class="key keypos-30">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">UP</text>
+<text x="0" y="0" class="key tap">B</text>
 </g>
 <g transform="translate(812, 224)" class="key keypos-31">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
@@ -334,12 +334,12 @@ text { fill: #000000; }
 <g transform="translate(756, 42)" class="key keypos-32">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">O</text>
+<text x="0" y="0" class="key tap">Y</text>
 </g>
 <g transform="translate(756, 154)" class="key keypos-33">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">.</text>
+<text x="0" y="0" class="key tap">J</text>
 </g>
 <g transform="translate(756, 210)" class="key keypos-34">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
@@ -349,29 +349,27 @@ text { fill: #000000; }
 <g transform="translate(700, 28)" class="key keypos-35">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">I</text>
-<a href="#x_x">
-<text x="0" y="25" class="key hold layer-activator">5</text>
-</a></g>
+<text x="0" y="0" class="key tap">R</text>
+</g>
 <g transform="translate(700, 84)" class="key keypos-36">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">K</text>
+<text x="0" y="0" class="key tap">N</text>
 </g>
 <g transform="translate(644, 42)" class="key keypos-37">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">U</text>
+<text x="0" y="0" class="key tap">W</text>
 </g>
 <g transform="translate(644, 98)" class="key keypos-38">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">J</text>
+<text x="0" y="0" class="key tap">T</text>
 </g>
 <g transform="translate(644, 154)" class="key keypos-39">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">M</text>
+<text x="0" y="0" class="key tap">D</text>
 </g>
 <g transform="translate(672, 231)" class="key keypos-40">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
@@ -383,12 +381,12 @@ text { fill: #000000; }
 <g transform="translate(588, 112)" class="key keypos-41">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">H</text>
+<text x="0" y="0" class="key tap">K</text>
 </g>
 <g transform="translate(588, 168)" class="key keypos-42">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">N</text>
+<text x="0" y="0" class="key tap">G</text>
 </g>
 <g transform="translate(610, 236) rotate(-11.93)" class="key keypos-43">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
@@ -409,17 +407,17 @@ text { fill: #000000; }
 <g transform="translate(756, 98)" class="key keypos-46">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">L</text>
+<text x="0" y="0" class="key tap">S</text>
 </g>
 <g transform="translate(700, 140)" class="key keypos-47">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">,</text>
+<text x="0" y="0" class="key tap">M</text>
 </g>
 <g transform="translate(588, 56)" class="key keypos-48">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key"/>
-<text x="0" y="0" class="key tap">Y</text>
+<text x="0" y="0" class="key tap">F</text>
 </g>
 <g transform="translate(551, 257) rotate(-23.0)" class="key keypos-49">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key side"/>
@@ -1645,9 +1643,10 @@ text { fill: #000000; }
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key trans"/>
 <text x="0" y="0" class="key trans tap">▽</text>
 </g>
-<g transform="translate(700, 28)" class="key held keypos-35">
-<rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key held side"/>
-<rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key held"/>
+<g transform="translate(700, 28)" class="key trans keypos-35">
+<rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key trans side"/>
+<rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key trans"/>
+<text x="0" y="0" class="key trans tap">▽</text>
 </g>
 <g transform="translate(700, 84)" class="key trans keypos-36">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key trans side"/>
@@ -1669,10 +1668,9 @@ text { fill: #000000; }
 <rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key trans"/>
 <text x="0" y="0" class="key trans tap">▽</text>
 </g>
-<g transform="translate(672, 231)" class="key trans keypos-40">
-<rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key trans side"/>
-<rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key trans"/>
-<text x="0" y="0" class="key trans tap">▽</text>
+<g transform="translate(672, 231)" class="key held keypos-40">
+<rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key held side"/>
+<rect rx="8" ry="8" x="-21" y="-21" width="42" height="42" class="key held"/>
 </g>
 <g transform="translate(588, 112)" class="key trans keypos-41">
 <rect rx="6" ry="6" x="-27" y="-27" width="54" height="54" class="key trans side"/>

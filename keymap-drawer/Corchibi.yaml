@@ -5,51 +5,51 @@ layers:
   - TAB
   - LSHFT
   - LCTRL
-  - A
+  - E
   - Z
   - LGUI
-  - W
+  - L
   - X
   - LALT
-  - E
-  - D
-  - R
-  - F
+  - U
+  - A
+  - ','
+  - O
   - V
   - '1'
-  - G
-  - B
+  - '-'
+  - /
   - '2'
   - '9'
   - Q
-  - S
+  - I
   - C
-  - T
+  - .
   - SPACE
   - BSPC
   - RET
   - '?'
   - RIGHT
-  - ':'
-  - UP
-  - DOWN
-  - O
-  - .
-  - RIGHT
-  - {t: I, h: '5'}
-  - K
-  - U
-  - J
-  - M
-  - {t: A, h: '5'}
   - H
+  - B
+  - DOWN
+  - Y
+  - J
+  - RIGHT
+  - R
   - N
+  - W
+  - T
+  - D
+  - {t: A, h: '5'}
+  - K
+  - G
   - '3'
   - '8'
   - P
-  - L
-  - ','
-  - Y
+  - S
+  - M
+  - F
   - SPACE
   '1':
   - {t: ▽, type: trans}
@@ -291,12 +291,12 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
