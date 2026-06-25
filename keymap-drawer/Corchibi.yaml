@@ -2,15 +2,15 @@ layout: {zmk_keyboard: Corchibi}
 layers:
   default:
   - ESC
-  - TAB
+  - {t: DELETE, h: LEFT ALT}
   - LSHFT
-  - LCTRL
+  - ''
   - E
   - Z
-  - LGUI
+  - ''
   - L
   - X
-  - LALT
+  - ''
   - U
   - A
   - ','
