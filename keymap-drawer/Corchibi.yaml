@@ -26,16 +26,16 @@ layers:
   - C
   - .
   - SPACE
-  - BSPC
-  - RET
-  - '?'
+  - Alt+TAB
+  - TAB
+  - UP ARROW
   - RIGHT
   - H
   - B
   - DOWN
   - Y
   - J
-  - RIGHT
+  - LEFT
   - R
   - N
   - W
