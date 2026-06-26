@@ -16,16 +16,16 @@ layers:
   - ','
   - O
   - V
-  - '1'
+  - ''
   - '-'
   - /
-  - '2'
+  - {t: SPACE, h: '1'}
   - '9'
   - Q
   - I
   - C
   - .
-  - SPACE
+  - {t: INTERNATIONAL 1, h: LEFT CONTROL}
   - Alt+TAB
   - TAB
   - UP ARROW
@@ -44,33 +44,33 @@ layers:
   - {t: A, h: '5'}
   - K
   - G
-  - '3'
+  - {t: ENTER, h: '2'}
   - '8'
   - P
   - S
   - M
   - F
-  - SPACE
+  - {t: BACKSPACE, h: LEFT SHIFT}
   '1':
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - BT CLR
-  - {t: BT, h: '0'}
+  - ''
+  - ''
   - {t: ▽, type: trans}
-  - BT CLR ALL
-  - {t: BT, h: '1'}
+  - ''
+  - ''
   - '2'
   - {t: ▽, type: trans}
-  - {t: BT, h: '2'}
+  - ''
   - '3'
   - ;
   - '4'
   - /
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - '-'
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {type: held}
   - {t: ▽, type: trans}
   - '1'
   - '"'
@@ -79,14 +79,14 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - BT CLR
-  - {t: BT, h: '2'}
+  - ''
+  - ''
   - {t: ▽, type: trans}
-  - BT CLR ALL
-  - {t: BT, h: '1'}
+  - ''
+  - ''
   - '9'
   - {t: ▽, type: trans}
-  - {t: BT, h: '0'}
+  - ''
   - '8'
   - '"'
   - '7'
@@ -121,32 +121,32 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -197,7 +197,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {type: held}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
