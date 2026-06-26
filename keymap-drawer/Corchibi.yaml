@@ -54,14 +54,14 @@ layers:
   '1':
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - BT CLR
+  - {t: BT, h: '0'}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - BT CLR ALL
+  - {t: BT, h: '1'}
   - '2'
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {t: BT, h: '2'}
   - '3'
   - ;
   - '4'
@@ -79,14 +79,14 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - BT CLR
+  - {t: BT, h: '2'}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - BT CLR ALL
+  - {t: BT, h: '1'}
   - '9'
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - {t: BT, h: '0'}
   - '8'
   - '"'
   - '7'
